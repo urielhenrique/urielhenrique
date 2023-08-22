@@ -1,7 +1,7 @@
  ## Olá! Eu sou o Uriel Henrique 😎 
 
 - Atualmente trabalho com Low Code através da Outsystem
-- 🥽 Estudando .NET||C#||React||SQL
+- 🥽 Estudando .NET||C#||GO||SQL
 - 😏 Pronouns: ele/dele
 
  <div>
